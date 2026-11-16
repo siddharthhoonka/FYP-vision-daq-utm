@@ -34,12 +34,3 @@ Everything runs in the browser. The video is never uploaded anywhere, and there 
 
 Checked against the built-in synthetic test (E = 70 GPa, σy = 250 MPa, UTS = 400 MPa), including after H.264 compression: UTS, yield strength and elongation agree within about 2 %; Young's modulus within about 5–15 %. It has **not yet been validated against a real UTM video or an extensometer** — that is the project's next step (standard SS 304 data).
 
-## Deploy on GitHub Pages
-
-1. Create a repository (for example `vision-daq-utm`) and add `index.html` and `README.md`.
-2. Settings → Pages → Source: *Deploy from a branch* → `main` / root → Save.
-3. The app is live at `https://<username>.github.io/vision-daq-utm/`.
-
-## Team
-
-Siiddharth Hoonka, Ayush Gandhi, Yatharth Nema — mentors Dr. Abhinav Arya and Dr. Seelam Rajasekhar Reddy.
